@@ -1,2 +1,1 @@
-# bmiCalculator
-Demo code to calculate the BMI for ICS 385 Spring 2020 class
+[![Run on Repl.it](https://repl.it/badge/github/debasisb/bmiCalculator)](https://repl.it/github/debasisb/bmiCalculator)
